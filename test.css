@@ -6,6 +6,16 @@ body{
 	height: 100vh;
 }
 
+.tmp {
+	background-color: white;
+	width: 80%;
+	margin: auto;
+	padding: 20px;
+	border-radius: 25px;
+  	border: 2px solid #73AD21;
+}
+
+
 #Header{
 	width: 500px; 
 	margin-left: auto; 
@@ -45,6 +55,7 @@ p{
 	text-align: center;
 	padding-bottom: 8px;
 	background-color: #8E41D5; 
+	margin-right: 20px;
 }
 
 #LeftNav ul{
@@ -119,4 +130,11 @@ ul{
 	100% {
 		background-position: 0% 50%;
 	}
+}
+
+.hi {
+	background-color: #00ffff;
+	border-radius: 25px;
+  	border: 2px solid #73AD21;
+	text-align: center;
 }
